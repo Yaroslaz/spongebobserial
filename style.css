@@ -1,0 +1,92 @@
+
+#sponge{
+    /* position:absolute ; */
+    font-size: 80px;
+    line-height: 10px;
+    margin: 80px 0px 80px 50px;
+    color: aliceblue;
+    text-shadow: rgba(0, 0, 0, 0.521) 10px 10px 10px;
+    font-family: 'spongeboy';
+}
+#square{
+    /* position: absolute; */
+    font-size: 70px;
+    line-height: 10px;
+    margin: 170px 0px 100px 650px;
+    color: aliceblue;
+    text-shadow: rgba(0, 0, 0, 0.521) 10px 10px 10px;
+    font-family: 'spongeboy';
+    
+}
+.article{
+    font-size: 20px;
+    line-height: 55px;
+    Letter-spacing: 1px;
+    margin: 0px 0px 0px 50px;
+    color: rgb(245, 245, 245);
+    text-shadow: rgba(0, 0, 0, 0.623) 6px 5px 7px;
+    font-family: 'spongeboy';
+    width: 1200px;
+}
+
+#img1{
+    margin: -400px 0px 0px 1280px;
+    border-radius: 5px;
+    width: 550px; ;
+    height: 350px;
+    border: 10px solid aliceblue;
+    box-shadow: 5px 5px 20px 0px;
+}
+
+#img2{
+    margin: 50px 0px 0px 665px;
+    border-radius: 5px;
+    width: 550px; ;
+    height: 350px;
+    border: 10px solid aliceblue;
+    box-shadow: 5px 5px 20px 0px; 
+}
+#img3{
+    margin: -350px 0px 0px 50px;
+    border-radius: 5px;
+    width: 550px; ;
+    height: 350px;
+    border: 10px solid aliceblue;
+    box-shadow: 5px 5px 20px 0px; 
+}
+#img4{
+    margin: 50px 0px 0px 400px;
+    border-radius: 5px;
+    width: 550px;
+    height: 350px;
+    border: 10px solid aliceblue;
+    box-shadow: 5px 5px 20px 0px; 
+}
+.aside{
+        font-size: 30px;
+        margin: -820px 0px 0px 1275px;
+        color: aliceblue;
+        text-shadow: rgba(0, 0, 0, 0.87) 5px 5px 10px;
+        font-family: 'spongeboy';
+    }
+
+#facts{
+    margin: 0px 0px 0px 200px;
+}
+#ol{
+    position: absolute;
+    font-size: 20px;
+    Letter-spacing: 1px;
+    width: 550px;
+ 
+
+}
+
+#next{
+    position: absolute;
+    font-size: 20px;
+    margin: 400px 0px 0px -250px;
+    Letter-spacing: 1px;
+    width: 820px;
+
+}
